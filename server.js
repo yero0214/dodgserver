@@ -4,7 +4,7 @@ const express = require('express');
 const axios = require('axios');
 const cors = require('cors');
 const { response } = require('express');
-const riotKey = "RGAPI-34ff654f-a3ec-4151-920e-ec71bd43df4a";
+const riotKey = "RGAPI-7d085c59-5308-45d9-876b-48aff5035ad2";
 
 const PORT = 3000;
 const HOST = '0.0.0.0';
